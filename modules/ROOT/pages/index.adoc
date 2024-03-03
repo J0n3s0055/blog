@@ -1,1 +1,3 @@
 :doctitle: Blog Home
+
+https://npj-el6082.blogspot.com/[Access my Blog here]
