@@ -1,5 +1,4 @@
-* [.separated]#**NPJ Website**#
-* xref:home:index.adoc[]
+* xref:home::index.adoc[Home]
 
 * [.separated]#**Blog**#
 * xref:blog::index.adoc[Reflective Writing]
